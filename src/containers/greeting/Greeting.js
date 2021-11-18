@@ -3,7 +3,7 @@ import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.scss";
 
-import table from "../../assets/images/table.png";
+import programmer from "../../assets/images/programmer.svg";
 import landingPerson from "../../assets/lottie/landingPerson";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
@@ -57,7 +57,7 @@ export default function Greeting() {
             ) : (
               <img
                 alt="man sitting on table"
-                src={table}
+                src={programmer}
               ></img>
             )}
             

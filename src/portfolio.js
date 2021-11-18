@@ -21,7 +21,7 @@ const socialMediaLinks = {
   github: "https://github.com/karandesai24",
   linkedin: "https://www.linkedin.com/in/karan-desai-80b7a4148/",
   gmail: "karan181716@gmail.com",
-  twitter:"karandesai09",
+  twitter:"https://twitter.com/Karandesai09",
   display: true 
 };
 
@@ -99,8 +99,8 @@ const educationInfo= {
   display: true, 
   schools: [
     {
-      schoolName: "Sarvajanik College of Engineering&Technology",
-      logo: require("./assets/images/logo.png"),
+      schoolName: "Sarvajanik College of Engineering & Technology",
+      logo: require("./assets/images/logo.png").default,
       subHeader: "B.Tech in Computer Engineering",
       duration: "July 2019 - July 2023",
       
@@ -138,7 +138,7 @@ const bigProjects = {
   subtitle: "Developed Projects",
   projects: [
     {
-      image: require("./assets/images/spotify.png"),
+      image: require("./assets/images/spotify.png").default,
       projectName: "Spotify-clone",
       projectDesc: "Spotify clone, made with ReactJS using Spotify API, which uses Spotify authentication and shows logged in user's username,avatar & playlists with song player.",
       footerLink: [
@@ -149,7 +149,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/newsapp.png"),
+      image: require("./assets/images/newsapp.png").default,
       projectName: "Newsapp",
       projectDesc: "Newsapp which fetches news of through API.Technologies used HTML,CSS,JAVASCRIPT,BOOSTRAP,  DJANGO,PYTHON.",
       footerLink: [
@@ -161,7 +161,7 @@ const bigProjects = {
       ]
     },
     {
-      image: <img src={require('./assets/images/mern.png')} alt="img"/>,
+      image: require('./assets/images/mern.png').default,
       projectName: "MERN Stack Project",
       projectDesc: "User registration-login-authentication,bcrpts user's password for end to end security & generates different unique cookies for different sessions.",
       footerLink: [
@@ -172,7 +172,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/wheather.png"),
+      image: require("./assets/images/wheather.png").default,
       projectName: "React.js-Wheather-App",
       projectDesc: "A ReactJS app which shows wheather and related fuctionalities of entered city",
       footerLink: [
@@ -183,7 +183,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/restro.png") ,
+      image: require("./assets/images/restro.png").default ,
       projectName: "Restro Website",
       projectDesc: "Complete front end responsive restaurant website made with HTML,CSS,JAVASCRIPT.",
       footerLink: [
@@ -194,7 +194,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/music.png"),
+      image: require("./assets/images/music.png").default,
       projectName: "Music Player",
       projectDesc: "Music Player with dark-light mode & other pause-play-shuffle-next-previous like functions.",
       footerLink: [
@@ -207,7 +207,7 @@ const bigProjects = {
     
  
     {
-      image: require("./assets/images/cart.png"),
+      image: require("./assets/images/cart.png").default,
       projectName: "Shopping-cart",
       projectDesc: "Basic shopping-cart made using HTML,CSS,JAVASCRIPT as front end and PHP & mysql as back end-database.",
       footerLink: [
