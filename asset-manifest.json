@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/karandesai/static/css/main.b2a19120.chunk.css",
-    "main.js": "/karandesai/static/js/main.86374119.chunk.js",
-    "main.js.map": "/karandesai/static/js/main.86374119.chunk.js.map",
+    "main.js": "/karandesai/static/js/main.04e7c6a9.chunk.js",
+    "main.js.map": "/karandesai/static/js/main.04e7c6a9.chunk.js.map",
     "runtime-main.js": "/karandesai/static/js/runtime-main.8086d469.js",
     "runtime-main.js.map": "/karandesai/static/js/runtime-main.8086d469.js.map",
     "static/js/2.2e1bfba9.chunk.js": "/karandesai/static/js/2.2e1bfba9.chunk.js",
@@ -15,18 +15,18 @@
     "static/media/contactMailDark.svg": "/karandesai/static/media/contactMailDark.1db650d3.svg",
     "static/media/developerActivity.svg": "/karandesai/static/media/developerActivity.2c0445ca.svg",
     "static/media/mern.png": "/karandesai/static/media/mern.83f7c51c.png",
-    "static/media/music.png": "/karandesai/static/media/music.accf4c13.png",
+    "static/media/music.png": "/karandesai/static/media/music.f324abc0.png",
     "static/media/newsapp.png": "/karandesai/static/media/newsapp.36a8526f.png",
+    "static/media/programmer.becd1465.svg": "/karandesai/static/media/programmer.becd1465.svg",
     "static/media/restro.png": "/karandesai/static/media/restro.89ef0ccb.png",
     "static/media/skill.svg": "/karandesai/static/media/skill.35a14766.svg",
-    "static/media/spotify.png": "/karandesai/static/media/spotify.ffb9627c.png",
-    "static/media/table.8f117eb2.png": "/karandesai/static/media/table.8f117eb2.png",
+    "static/media/spotify.png": "/karandesai/static/media/spotify.fb6b3461.png",
     "static/media/wheather.png": "/karandesai/static/media/wheather.40d0a015.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8086d469.js",
     "static/js/2.2e1bfba9.chunk.js",
     "static/css/main.b2a19120.chunk.css",
-    "static/js/main.86374119.chunk.js"
+    "static/js/main.04e7c6a9.chunk.js"
   ]
 }
