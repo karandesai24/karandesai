@@ -24,7 +24,7 @@
     "sass": "^1.43.4",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://karandesai24.github.io/karandesai",
+  "homepage": "https://karandesai.me",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
